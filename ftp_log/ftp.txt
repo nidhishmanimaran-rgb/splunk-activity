@@ -1,0 +1,8 @@
+(000001) 07/05/2026 10:20:11 AM - (not logged in) (192.168.1.20)> Connected
+(000001) 07/05/2026 10:20:13 AM - user1 (192.168.1.20)> USER user1
+(000001) 07/05/2026 10:20:14 AM - user1 (192.168.1.20)> 230 Logged on
+(000001) 07/05/2026 10:21:05 AM - user1 (192.168.1.20)> STOR backup.zip
+(000001) 07/05/2026 10:21:45 AM - user1 (192.168.1.20)> 226 Successfully transferred "/backup.zip"
+(000001) 07/05/2026 10:22:10 AM - user1 (192.168.1.20)> RETR invoice.xlsx
+(000001) 07/05/2026 10:22:15 AM - user1 (192.168.1.20)> 226 Successfully transferred "/invoice.xlsx"
+(000001) 07/05/2026 10:23:00 AM - user1 (192.168.1.20)> Disconnected
