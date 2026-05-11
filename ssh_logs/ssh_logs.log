@@ -1,0 +1,6 @@
+May 11 10:15:22 server1 sshd[1024]: Accepted password for admin from 192.168.1.10 port 55221 ssh2
+May 11 10:16:01 server1 sshd[1025]: Failed password for root from 192.168.1.20 port 55310 ssh2
+May 11 10:17:44 server1 sshd[1026]: Accepted password for user1 from 192.168.1.15 port 55345 ssh2
+May 11 10:18:11 server1 sshd[1027]: Failed password for invalid user test from 192.168.1.30 port 55400 ssh2
+May 11 10:19:55 server1 sshd[1028]: Accepted password for admin from 192.168.1.10 port 55555 ssh2
+May 11 10:20:20 server1 sshd[1029]: Failed password for root from 192.168.1.20 port 55600 ssh2
